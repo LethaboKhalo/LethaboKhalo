@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I’m Lethabo Khalo
 
-<!--
-**LethaboKhalo/LethaboKhalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Bachelor in Computing Student specialising in Business Intelligence at Belgium Campus iTversity
 
-Here are some ideas to get you started:
+🌱 Passionate about Data Analytics, Business Intelligence, and Cloud Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Actively seeking an internship or entry-level opportunity to bridge academic knowledge with real-world application.
+
+  🚀 Skills
+Programming: Python, R, SQL, C#, JavaScript
+Data & BI Tools: Power BI, Excel, Microsoft Access, Tableau
+Database Systems: Microsoft SQL Server, MySQL, Oracle
+Concepts & Methods: Data Mining (Clustering, Classification, Association Rules), CRISP-DM, Database Normalization, ER Modeling
+Version Control: Git, GitHub
+Other Tools: .NET Windows Forms, HTML5, CSS, JavaScript (DOM Manipulation)
+
+  📈 Projects
+
+1️⃣ Business Intelligence Health & Demographics Project
+🩺 Technologies: R, Power BI, CRISP-DM, Data Mining
+Analyzed 12+ South African public health datasets to identify regional risks and key predictors of child mortality. Built interactive Power BI dashboards visualizing health and demographic trends and providing actionable insights for public health strategy.
+
+2️⃣ Relational Database for a Local Organization
+💾 Technologies: Microsoft SQL Server, T-SQL, Database Design
+Designed and implemented a fully normalized relational database to resolve operational inefficiencies. Created ERDs, developed database schema, automated reporting via stored procedures, and implemented secure authentication.
+
+3️⃣ Chocolate Factory Database Management System
+🍫 Technologies: Microsoft Access, Database Normalization, ER Modeling
+Developed a comprehensive database system for managing customers, orders, inventory, and employees. Created interactive forms, queries, and a user-friendly interface with macros and input validation.
+
+4️⃣ Version-Controlled Student Management System
+👩‍💻 Technologies: C#, .NET Windows Forms, Git, File I/O
+Built a desktop application supporting full CRUD operations on student records, with automated summary reports and validation. Used GitHub for version control and project collaboration.
+
+5️⃣ Interactive Dynamic Course Website
+🌐 Technologies: HTML5, CSS, JavaScript (DOM Manipulation)
+Created a single-page web application for an interactive course catalog featuring real-time search, detailed course views, and a responsive design for smooth user experience.
