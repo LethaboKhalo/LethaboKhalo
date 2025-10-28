@@ -21,6 +21,7 @@
 
 ## 🚀 Skills in Progress
 -Python.
+
 -Excel.
 
   ## 📈 Projects
