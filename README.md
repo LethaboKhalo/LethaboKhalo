@@ -38,4 +38,4 @@ Built a desktop application supporting full CRUD operations on student records, 
 
 5️⃣ Interactive Dynamic Course Website
 🌐 Technologies: HTML5, CSS, JavaScript (DOM Manipulation)
-Created a single-page web application for an interactive course catalog featuring real-time search, detailed course views, and a responsive design for smooth user experience.
+Created a web application for an interactive course catalog featuring real-time search, detailed course views, and a responsive design for smooth user experience.
