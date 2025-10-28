@@ -39,3 +39,7 @@ Built a desktop application supporting full CRUD operations on student records, 
 5️⃣ Interactive Dynamic Course Website
 🌐 Technologies: HTML5, CSS, JavaScript (DOM Manipulation)
 Created a web application for an interactive course catalog featuring real-time search, detailed course views, and a responsive design for smooth user experience.
+
+6️⃣ Personal Budget Planner & Expense Tracker 💰
+🧠 Technologies: C#, .NET Windows Forms, GitHub
+Developed a desktop app that helps users track income and expenses, plan budgets, and set financial goals. Implemented user authentication, data validation, and report generation to promote financial awareness and better money management.
