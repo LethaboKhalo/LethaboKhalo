@@ -1,24 +1,28 @@
-👋 Hi, I’m Lethabo Khalo
+👋 Hi, I’m Lethabo Khalo.
 
-🎓 3rd Year Bachelor in Computing Student specialising in Business Intelligence at Belgium Campus iTversity
+🎓 3rd Year Bachelor in Computing Student specialising in Business Intelligence at Belgium Campus iTversity.
 
-🌱 Passionate about Data Analytics, Business Intelligence, and Cloud Technologies
+🌱 Passionate about Data Analytics, Business Intelligence, and Data engineering.
 
 💼 Actively seeking an internship or entry-level opportunity to bridge academic knowledge with real-world application.
 
   🚀 Skills
-Programming: Python, R, SQL, C#, JavaScript
-Data & BI Tools: Power BI, Excel, Microsoft Access, Tableau
+Programming: R, SQL, C#, JavaScript
+Data & BI Tools: Power BI, Microsoft Access, Tableau
 Database Systems: Microsoft SQL Server, MySQL, Oracle
 Concepts & Methods: Data Mining (Clustering, Classification, Association Rules), CRISP-DM, Database Normalization, ER Modeling
 Version Control: Git, GitHub
 Other Tools: .NET Windows Forms, HTML5, CSS, JavaScript (DOM Manipulation)
 
+🚀 Skills in Progress
+Python
+Excel
+
   📈 Projects
 
-1️⃣ Business Intelligence Health & Demographics Project
+1️⃣ Business Intelligence Health & Demographics Project (In Progress)
 🩺 Technologies: R, Power BI, CRISP-DM, Data Mining
-Analyzed 12+ South African public health datasets to identify regional risks and key predictors of child mortality. Built interactive Power BI dashboards visualizing health and demographic trends and providing actionable insights for public health strategy.
+Analyzing 12+ South African public health datasets to identify regional risks and key predictors of child mortality. Building interactive Power BI dashboards visualizing health and demographic trends and providing actionable insights for public health strategy.
 
 2️⃣ Relational Database for a Local Organization
 💾 Technologies: Microsoft SQL Server, T-SQL, Database Design
