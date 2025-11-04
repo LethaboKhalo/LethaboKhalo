@@ -7,7 +7,7 @@
 💼 Actively seeking an internship or entry-level opportunity to bridge academic knowledge with real-world application.
 
  ## 🚀 Skills
--Programming: R, SQL, C#, JavaScript.
+- Languages: R, SQL, C#,  JavaScript (DOM Manipulation).,C++ ,HTML5, CSS,
 
 -Data & BI Tools: Power BI, Microsoft Access, Tableau.
 
@@ -17,8 +17,7 @@
 
 -Version Control: Git, GitHub.
 
--Other Tools: .NET Windows Forms, HTML5, CSS, JavaScript (DOM Manipulation).
-
+-Other Tools: .NET Windows Forms.
 ## 🚀 Skills in Progress
 -Python.
 
