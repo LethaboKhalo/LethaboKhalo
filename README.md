@@ -25,9 +25,9 @@
 
   ## 📈 Projects
 
-1️⃣ Business Intelligence Health & Demographics Data Mining Project (In Progress)
+1️⃣ Business Intelligence Health & Demographics Data Mining Project [https://github.com/LethaboKhalo/Business-Intelligence-Health-Demographics-Data-Mining-Project]
 🩺 Technologies: R, Power BI, CRISP-DM, Data Mining
-Analyzing 12+ South African public health datasets to identify regional risks and key predictors of child mortality. Building interactive Power BI dashboards visualizing health and demographic trends and providing actionable insights for public health strategy.
+Analyzed 12+ South African public health datasets to identify regional risks and key predictors of child mortality. Built an interactive Power BI dashboards visualizing health and demographic trends and providing actionable insights for public health strategy.
 
 2️⃣ Relational Database for a Local Organization [https://github.com/LethaboKhalo/farm-management-database]
 💾 Technologies: Microsoft SQL Server, T-SQL, Database Design
