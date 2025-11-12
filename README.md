@@ -41,7 +41,7 @@ Developed a comprehensive database system for managing customers, orders, invent
 👩‍💻 Technologies: C#, .NET Windows Forms, Git, File I/O
 Built a desktop application supporting full CRUD operations on student records, with automated summary reports and validation. Used GitHub for version control and project collaboration.
 
-5️⃣ Interactive Dynamic Course Website
+5️⃣ Interactive Dynamic Course Website [https://github.com/LethaboKhalo/Website]
 🌐 Technologies: HTML5, CSS, JavaScript (DOM Manipulation)
 Created a web application for an interactive course catalog featuring real-time search, detailed course views, and a responsive design for smooth user experience.
 
