@@ -23,7 +23,13 @@
 
 -Excel.
 
-  ## 📈 Projects
+  # 📈 Projects
+
+  ## Power BI Dashboards
+  1. Artist Tours Financial Performance Dashboard
+  https://github.com/LethaboKhalo/Artist-Tours-Financial-Performance-Dashboard
+
+     
 
 1️⃣ Business Intelligence Health & Demographics Data Mining Project [https://github.com/LethaboKhalo/Business-Intelligence-Health-Demographics-Data-Mining-Project]
 🩺 Technologies: R, Power BI, CRISP-DM, Data Mining
