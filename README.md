@@ -28,6 +28,8 @@
   ## Power BI Dashboards
   1. Artist Tours Financial Performance Dashboard
   https://github.com/LethaboKhalo/Artist-Tours-Financial-Performance-Dashboard
+  2.Tree Allometry Dashboard Power BI with R Visuals
+   https://github.com/LethaboKhalo/Tree-Allometry-Dashboard-Power-BI-with-R-Visuals
 
      
 
