@@ -6,18 +6,25 @@
 
 💼 Actively seeking an internship or entry-level opportunity to bridge academic knowledge with real-world application.
 
- ## 🚀 Skills
-- Languages: R, SQL, C#,  JavaScript (DOM Manipulation).,C++ ,HTML5, CSS,
+ # 🚀 Skills
+### Languages:
+R, SQL, C#, C++, JavaScript (DOM Manipulation), HTML5, CSS
 
--Data & BI Tools: Power BI, Microsoft Access, Tableau.
+### Data & BI Tools:
+Power BI, Microsoft Access, Tableau
 
--Database Systems: Microsoft SQL Server, MySQL, Oracle.
+### Database Systems:
+Microsoft SQL Server, MySQL, Oracle
 
--Concepts & Methods: Data Mining (Clustering, Classification, Association Rules), CRISP-DM, Database Normalization, ER Modeling.
+### Concepts & Methods:
+Data Mining (Clustering, Classification, Association Rules), CRISP-DM, Database Normalization, ER Modeling
 
--Version Control: Git, GitHub.
+### Version Control:
+Git, GitHub
 
--Other Tools: .NET Windows Forms.
+### Other Tools:
+.NET Windows Forms
+
 ## 🚀 Skills in Progress
 -Python.
 
