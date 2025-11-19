@@ -41,6 +41,8 @@ This project presents an interactive Power BI dashboard that provides insights i
    
    This project showcases a Power BI dashboard built using the Diabetes dataset. The dashboard provides insights into patient health metrics, diabetes risk levels, and BMI/age distributions. It combines calculated columns, DAX measures, and interactive visuals to enable data-driven exploration of diabetes risk factors.
 
+   # Other Projects
+
 1️⃣ Business Intelligence Health & Demographics Data Mining Project [https://github.com/LethaboKhalo/Business-Intelligence-Health-Demographics-Data-Mining-Project]
 🩺 Technologies: R, Power BI, CRISP-DM, Data Mining
 Analyzed 12+ South African public health datasets to identify regional risks and key predictors of child mortality. Built an interactive Power BI dashboards visualizing health and demographic trends and providing actionable insights for public health strategy.
@@ -49,7 +51,7 @@ Analyzed 12+ South African public health datasets to identify regional risks and
 💾 Technologies: Microsoft SQL Server, T-SQL, Database Design
 Designed and implemented a fully normalized relational database to resolve operational inefficiencies. Created ERDs, developed database schema, automated reporting via stored procedures, and implemented secure authentication.
 
-3️⃣ Chocolate Factory Database Management System [https://github.com/LethaboKhalo/Chocolate-Factory-Database-Management-System]
+3️⃣ Chocolate Factory Database Management System (Completed this in my 1st year of studying) [https://github.com/LethaboKhalo/Chocolate-Factory-Database-Management-System]
 🍫 Technologies: Microsoft Access, Database Normalization, ER Modeling
 Developed a comprehensive database system for managing customers, orders, inventory, and employees. Created interactive forms, queries, and a user-friendly interface with macros and input validation.
 
