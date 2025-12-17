@@ -2,19 +2,14 @@
 
 🎓 3rd Year Bachelor in Computing Student specialising in Business Intelligence at Belgium Campus iTversity.
 
-🌱 Passionate about Data Analytics, Business Intelligence, and Data engineering.
-
 💼 Actively seeking an internship or entry-level opportunity to bridge academic knowledge with real-world application.
 
- # 🚀 Skills
+ ## 🚀 Skills
 ### Languages:
-R, SQL, C#, C++, JavaScript (DOM Manipulation), HTML5, CSS
+R, SQL, C#, C++, JavaScript (DOM Manipulation), HTML5, CSS, 
 
 ### Data & BI Tools:
-Power BI, Microsoft Access, Tableau
-
-### Database Systems:
-Microsoft SQL Server, MySQL, Oracle
+Power BI, Microsoft Access, Tableau, Talend ,  MSSQL, MongoDB, Oracle
 
 ### Concepts & Methods:
 Data Mining (Clustering, Classification, Association Rules), CRISP-DM, Database Normalization, ER Modeling
@@ -22,6 +17,10 @@ Data Mining (Clustering, Classification, Association Rules), CRISP-DM, Database 
 ### Version Control:
 Git, GitHub
 
+### Certification
+- Introduction to Data science (Cisco)
+- Data Analytics Essentials (Cisco)
+  
 ### Other Tools:
 .NET Windows Forms
 
