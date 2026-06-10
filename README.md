@@ -9,7 +9,13 @@ CCI South Africa | March 2026-Present
 business application.
 
 ## Projects 
-• To be added...
+
+### Customer Data Cleaning and Revenue Analysis (excel)
+
+End-to-end customer data cleaning and analysis project in Excel. Standardized data, handled missing values, transformed dates, and generated business insights using Pivot Tables and statistical analysis : 
+
+
+• More to be added...
 
 ## 🎓Education
 #### Prestige College 2010-2022
