@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Lethabo Khalo.
 
 🎓 Final Year Bachelor in Computing Student specializing in Data Science at Belgium Campus iTversity.
+
 I have hands-on experience as a Data Engineer Intern and a good foundation in data engineering, analytics, and database systems. I have a good foundation in SQL, Python, Excel, Power BI, R and modern data tools and can easily adapt to anything new. I am experienced in ETL processes, data pipelines, data cleaning, analysis and visualization and business-focused problem solving through industry-based projects and practical work experience. 
 I am passionate about turning data into actionable insights and continuously growing in the data field.
 
