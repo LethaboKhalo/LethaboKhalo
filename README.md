@@ -29,6 +29,7 @@ Repository link: https://github.com/LethaboKhalo/Customer-Data-Cleaning-and-Reve
 ### SLA Breach Risk Prediction – Machine Learning Capstone Project (Group Project) 
 
 A machine learning project that predicts the risk of SLA breaches in a BPO environment using Python, Pandas, Scikit-learn, and PostgreSQL. The project includes data preprocessing, feature engineering, model evaluation, and risk classification into Low, Medium, and High categories to support proactive operational decision-making.
+Repository link: https://github.com/LethaboKhalo/SLA-Breach-Risk-Prediction-Machine-Learning-Capstone-Project-Group-Project-
 
 ### GDELT Data Engineering Pipeline
 
