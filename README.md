@@ -2,7 +2,7 @@
 
 🎓 Final Year Bachelor in Computing Student(NQF 8) specializing in Data Science at Belgium Campus iTversity.
 
-I have hands-on experience as a Data Engineer Intern and a good foundation in data engineering, analytics, and database systems. I have a good foundation in SQL, Python, Excel, Power BI, R and modern data tools and can easily adapt to anything new. I am experienced in ETL processes, data pipelines, data cleaning, analysis and visualization and business-focused problem solving through industry-based projects and practical work experience. 
+I have hands-on experience as a Data Engineer Intern. I have a good foundation in SQL, Python, Excel, Power BI, R and modern data tools and can easily adapt to anything new. I am experienced in ETL processes, data pipelines, data cleaning, analysis and visualization and business-focused problem solving through industry-based projects and practical work experience. 
 I am passionate about turning data into actionable insights and continuously growing in the data field.
 
 ## Work Experience
@@ -25,6 +25,13 @@ making, and organizational processes
 
 End-to-end customer data cleaning and analysis project in Excel. Standardized data, handled missing values, transformed dates, and generated business insights using Pivot Tables and statistical analysis : https://github.com/LethaboKhalo/Customer-Data-Cleaning-and-Revenue-Analysis-excel- 
 
+### SLA Breach Risk Prediction – Machine Learning Capstone Project (Group Project) 
+
+A machine learning project that predicts the risk of SLA breaches in a BPO environment using Python, Pandas, Scikit-learn, and PostgreSQL. The project includes data preprocessing, feature engineering, model evaluation, and risk classification into Low, Medium, and High categories to support proactive operational decision-making.
+
+### GDELT Data Engineering Pipeline
+
+A Python-based data engineering project that automatically discovers and downloads the latest GDELT datasets, including Events, Mentions, and GKG, using the GDELT lastupdate.txt metadata. The pipeline handles data extraction, ZIP file processing, and loading into Pandas while applying modular ETL, error handling, and data validation practices.
 
 • More to be added...
 
