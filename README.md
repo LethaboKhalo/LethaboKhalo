@@ -21,22 +21,7 @@ making, and organizational processes
 
 ## Projects 
 
-### Customer Data Cleaning and Revenue Analysis (excel)
-
-End-to-end customer data cleaning and analysis project in Excel. Standardized data, handled missing values, transformed dates, and generated business insights using Pivot Tables and statistical analysis. 
-Repository link: https://github.com/LethaboKhalo/Customer-Data-Cleaning-and-Revenue-Analysis-excel- 
-
-### SLA Breach Risk Prediction – Machine Learning Capstone Project (Group Project) 
-
-A machine learning project that predicts the risk of SLA breaches in a BPO environment using Python, Pandas, Scikit-learn, and PostgreSQL. The project includes data preprocessing, feature engineering, model evaluation, and risk classification into Low, Medium, and High categories to support proactive operational decision-making.
-Repository link: https://github.com/LethaboKhalo/SLA-Breach-Risk-Prediction-Machine-Learning-Capstone-Project-Group-Project-
-
-### GDELT Data Engineering Pipeline
-
-A Python-based data engineering project that automatically discovers and downloads the latest GDELT datasets, including Events, Mentions, and GKG, using the GDELT lastupdate.txt metadata. The pipeline handles data extraction, ZIP file processing, and loading into Pandas while applying modular ETL, error handling, and data validation practices.
-Repository Link: https://github.com/LethaboKhalo/GDELT-Data-Engineering-Pipeline-/tree/main
-
-• More to be added...
+•to be added...
 
 ## 🎓Education
 #### Prestige College 2010-2022
