@@ -7,7 +7,7 @@ I am passionate about turning data into actionable insights and continuously gro
 
 ## Work Experience
 
-### 💼 Junior Data Engineer
+### 💼Data Engineer Intern
 CCI South Africa | March 2026-Present
 
 • Participating in a structured Work Integrated Learning (WIL) program focused on data engineering practices  
